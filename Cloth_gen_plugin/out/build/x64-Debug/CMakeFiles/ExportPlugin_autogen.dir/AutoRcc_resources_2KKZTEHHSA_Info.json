@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/Qt_file/tech_pack.png"
+	],
+	"LOCK_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/ExportPlugin_autogen.dir/AutoRcc_resources_2KKZTEHHSA_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "2KKZTEHHSA",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/5.15.16/custom/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/ExportPlugin_autogen.dir/AutoRcc_resources_2KKZTEHHSA_Used.txt",
+	"SOURCE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/Qt_file/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

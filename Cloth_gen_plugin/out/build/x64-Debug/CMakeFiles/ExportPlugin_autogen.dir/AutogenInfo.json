@@ -1,0 +1,148 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/CMakeLists.txt",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/3.30.5-msvc23/CMakeSystem.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/3.30.5-msvc23/CMakeCXXCompiler.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Platform/Windows.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Compiler/MSVC.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/3.30.5-msvc23/CMakeRCCompiler.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeRCInformation.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5/Qt5Config.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QWindowsDirect2DIntegrationPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.30/Modules/CMakeParseArguments.cmake",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/Qt_file/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "ExportPlugin_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/ExportPlugin.h",
+			"MU",
+			"EWIEGA46WW/moc_ExportPlugin.cpp",
+			null
+		],
+		[
+			"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/Qt_file/mainwindow.h",
+			"MU",
+			"2KKZTEHHSA/moc_mainwindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/ExportPlugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"BOMAPIDLL_EXPORTS",
+		"ExportPlugin_EXPORTS",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_WIDGETS_LIB",
+		"UNICODE",
+		"WIN32",
+		"_USRDLL",
+		"_WINDOWS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/_autogen/include",
+		"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/CLOAPIInterface",
+		"C:/Qt/5.15.16/custom/include",
+		"C:/Qt/5.15.16/custom/include/QtWidgets",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/include",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/include/QtGui",
+		"C:/dev/qt-build/qt-everywhere-opensource-src-5.15.16/qtbase/include/QtANGLE",
+		"C:/Qt/5.15.16/custom/include/QtCore",
+		"C:/Qt/5.15.16/custom/mkspecs/win32-msvc"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/ExportPlugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.16/custom/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "C:/Qt/5.15.16/custom/bin/uic.exe",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/build/x64-Debug/CMakeFiles/ExportPlugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/ExportPlugin.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/Qt_file/mainwindow.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

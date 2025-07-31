@@ -1,0 +1,48 @@
+﻿{
+    "configurations": [
+        {
+            "name": "x64-Debug",
+            "generator": "Ninja",
+            "configurationType": "Debug",
+            "inheritEnvironments": [ "msvc_x64_x64" ],
+            "buildRoot": "${projectDir}\\out\\build\\${name}",
+            "installRoot": "${projectDir}\\out\\install\\${name}",
+            "cmakeCommandArgs": "",
+            "buildCommandArgs": "",
+            "ctestCommandArgs": "",
+            "intelliSenseMode": "windows-msvc-arm64",
+            "variables": [
+                {
+                    "name": "CMAKE_BUILD_TYPE",
+                    "value": "Debug",
+                    "type": "STRING"
+                },
+                {
+                    "name": "CMAKE_INSTALL_PREFIX",
+                    "value": "C:/Users/Elodie/Downloads/CLO_SDK_v2025.0.128_WIN/CLO_SDK_v2025.0.128_WIN/Samples/ExportPlugin2/out/install/x64-Debug",
+                    "type": "PATH"
+                },
+                {
+                    "name": "Qt5Core_DIR",
+                    "value": "C:/Qt/5.15.16/custom/lib/cmake/Qt5Core",
+                    "type": "PATH"
+                },
+                {
+                    "name": "Qt5_DIR",
+                    "value": "C:/Qt/5.15.16/custom",
+                    "type": "PATH"
+                },
+                {
+                    "name": "Qt5Gui_DIR",
+                    "value": "C:/Qt/5.15.16/custom/Qt5Core",
+                    "type": "PATH"
+                },
+                {
+                    "name": "Qt5Widgets_DIR",
+                    "value": "C:/Qt/5.15.16/custom/lib/cmake/Qt5Widgets",
+                    "type": "PATH"
+                }
+            ]
+        }
+    ]
+}
