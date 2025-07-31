@@ -2,4 +2,8 @@ This is a CLO3D dll plugin that could effectively encrease the clothes generatio
 To edit and view the project file, open Cmakelist.txt in visual studio.
 <img width="1005" height="558" alt="image" src="https://github.com/user-attachments/assets/9d261384-2606-4374-b103-56044da867a1" />
 
+The plug in currently have four basic type of clothes: V-neck, round-neck, Tank-top and hoodie. Including three adjustable features, width bottom, pit to sleeve and center backlength. Adjusting this parameters to fine tuning the shape of the designed clothes.
+
+<img width="659" height="916" alt="image" src="https://github.com/user-attachments/assets/e4ee5747-fcd8-40d2-9009-e8d3fd33cdff" />
+
 
